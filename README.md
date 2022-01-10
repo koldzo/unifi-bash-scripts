@@ -5,12 +5,12 @@ Bash script for UniFi Controller and Access Points
 
 Use this script for predefined hosts (access points ip addresses), username and password (if same for all hosts)
 
-- *Step 1.*
+1.
 Install sshpass
 
 `apt-get install sshpass`
 
-- *Step 2.*
+2.
 Edit si.sh (nano si.sh)
 
 a.) Replace UNIFI_CONTROLLER_IP with IP of your UniFi Controller
